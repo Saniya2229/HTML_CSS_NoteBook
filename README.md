@@ -20,3 +20,25 @@ This repository contains multiple beginner-friendly CSS mini-projects and exampl
 Each folder is self-contained and can be opened directly in your browser or editor.
 
 Happy Styling! 🎨💻
+
+
+# HTML Practice Projects
+
+This repository contains beginner-friendly HTML projects designed to help learners understand the fundamental structure of web pages.
+
+## 📁 What's Inside
+
+- Basic HTML templates
+- Tags and elements practice
+- Page layout structures
+- Semantic HTML examples
+
+## 🔰 Ideal For
+
+- Students starting with frontend development
+- Practicing HTML tags, structure, and forms
+- Building a strong foundation in web development
+
+Each file is self-contained and can be viewed directly in a browser. Start exploring and editing to deepen your understanding of HTML!
+
+Happy Coding! 🌐💻
